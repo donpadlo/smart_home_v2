@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+    <pdo_driver>mysql</pdo_driver>
+    <pdo_server>localhost</pdo_server>
+    <pdo_username>root</pdo_username>
+    <pdo_password>123</pdo_password>
+    <pdo_basename>smart_home</pdo_basename>
+</config>

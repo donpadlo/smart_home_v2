@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+    <pdo_driver>mysql</pdo_driver>
+    <pdo_server>localhost</pdo_server>
+    <pdo_username>donpadlo</pdo_username>
+    <pdo_password>padlozapadlo</pdo_password>
+    <pdo_basename>malgino2</pdo_basename>
+</config>
